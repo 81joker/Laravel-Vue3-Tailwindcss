@@ -1,6 +1,5 @@
 # Survey Full Stack Application
 
-Built with these technologies for [YouTube Video](https://youtu.be/WLQDpY7lOLg)
 <table>
     <tr>
         <td>
@@ -22,8 +21,7 @@ Built with these technologies for [YouTube Video](https://youtu.be/WLQDpY7lOLg)
 ## Requirements
 You need to have PHP version **8.0** or above. Node.js version **12.0** or above.
 
-## Demo
-https://yoursurveys.xyz
+
 
 
 ## Installation
